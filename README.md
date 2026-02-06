@@ -21,6 +21,10 @@ This project analyzes Gen Z career aspirations using survey data to provide acti
 ### Manager Aspirations Dashboard
 ![Manager Dashboard](images/manager_aspirations_dashboard.png)
 
+### Detailed Gen Z Career Aspirations Dashboard
+![Gen Z Dashboard](images/genz_dashboard_detailed.png)
+
+
 ## 📄 Detailed Report
 📥 [View Full PDF Report](report/Gen_Z_Career_Aspirations_PowerBI_Report.pdf)
 
